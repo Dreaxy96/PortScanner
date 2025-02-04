@@ -7,7 +7,7 @@ A simple and efficient Python-based tool to scan open ports on target systems.
 
 # Usage Instructions
 1. Ensure Python is Installed:
-If you don’t have Python installed, you can download it from here.
+If you don’t have Python installed, you can download it from here https://www.python.org/downloads/release/python-3128/
 
 2. Clone or Download the Project:
 Using Git:
