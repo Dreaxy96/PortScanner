@@ -5,16 +5,7 @@ A simple and efficient Python-based tool to scan open ports on target systems.
 
 
 
-#  Usage Guide
-
-## Required Libraries (Pip Installations)
-
-This project requires no additional libraries other than the ones included in Python by default. However, if you want to install any extra dependencies, you can use the `requirements.txt` file. To install the libraries listed in `requirements.txt`, run:
-
-```bash
-pip install -r requirements.txt
-```
-Usage Instructions
+# Usage Instructions
 1. Ensure Python is Installed:
 If you don’t have Python installed, you can download it from here.
 
