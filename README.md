@@ -44,3 +44,6 @@ If an error occurs (e.g., the IP cannot be resolved or the connection fails), th
 The IP 127.0.0.1 is restricted from scanning, as it refers to the local machine.
 
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
